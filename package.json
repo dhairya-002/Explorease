@@ -1,0 +1,12 @@
+{
+  "name": "ezyzip",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "install-deps": "cd frontend && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
