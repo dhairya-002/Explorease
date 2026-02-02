@@ -31,6 +31,6 @@ Tools
 
 🏗️ System Architecture
 
-1. React frontend communicates with the backend via REST APIs
-2. Node.js + Express backend handles routing, business logic, and error handling
-3. MongoDB Atlas stores travel destination data in a scalable cloud environment
+1. React frontend communicates with the backend via REST APIs.
+2. Node.js + Express backend handles routing, business logic, and error handling.
+3. MongoDB Atlas stores travel destination data in a scalable cloud environment.
